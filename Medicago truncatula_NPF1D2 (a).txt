@@ -1,0 +1,39 @@
+species and gene: Medicago truncatula NPF1D2 (a)
+results from kruskal: 
+h: 16.237729939635436
+p: 0.012533286156669573
+
+condition or part: root
+# of samples: 118
+sample mean: 853.369152542373
+standard deviation: 650.1349179027828
+
+condition or part: nodule
+# of samples: 12
+sample mean: 577.2565
+standard deviation: 503.6868686187051
+
+condition or part: shoot
+# of samples: 18
+sample mean: 1252.7043888888888
+standard deviation: 562.535788070525
+
+condition or part: leaf
+# of samples: 13
+sample mean: 954.1343846153845
+standard deviation: 872.7802155557076
+
+condition or part: stem
+# of samples: 14
+sample mean: 766.3517857142855
+standard deviation: 459.44318718705256
+
+condition or part: seed
+# of samples: 24
+sample mean: 629.7845416666668
+standard deviation: 277.1351973677858
+
+condition or part: myc
+# of samples: 25
+sample mean: 703.5376
+standard deviation: 370.6686009827107

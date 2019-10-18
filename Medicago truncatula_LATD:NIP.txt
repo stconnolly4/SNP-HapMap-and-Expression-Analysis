@@ -1,0 +1,39 @@
+species and gene: Medicago truncatula LATD:NIP
+results from kruskal: 
+h: 39.192675555214805
+p: 6.561320057056666e-07
+
+condition or part: root
+# of samples: 118
+sample mean: 1122.6985508474577
+standard deviation: 436.27445219344224
+
+condition or part: nodule
+# of samples: 12
+sample mean: 523.8249166666667
+standard deviation: 545.824345494876
+
+condition or part: shoot
+# of samples: 18
+sample mean: 1086.499222222222
+standard deviation: 354.58501490138764
+
+condition or part: leaf
+# of samples: 13
+sample mean: 821.0863846153845
+standard deviation: 430.0405161143878
+
+condition or part: stem
+# of samples: 14
+sample mean: 686.2417142857142
+standard deviation: 298.4278900745487
+
+condition or part: seed
+# of samples: 24
+sample mean: 1318.6743333333334
+standard deviation: 380.765010911987
+
+condition or part: myc
+# of samples: 25
+sample mean: 867.47132
+standard deviation: 470.31194093101396
